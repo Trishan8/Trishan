@@ -1,2 +1,3 @@
 ﻿# Trishan
 
+theme:minima
